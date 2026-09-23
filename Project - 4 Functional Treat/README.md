@@ -211,31 +211,25 @@ It displays documentation for the project functions and the main program.
 
 <div align="center">
 
-<img src="assets/Output1.png" alt="Output 1" width="90%">
+<img src="Output/output-1.png" alt="Output 1" width="90%">
 
 <br><br>
 
-<img src="assets/Output2.png" alt="Output 2" width="90%">
+<img src="Output/output-2.png" alt="Output 2" width="90%">
 
 <br><br>
 
-<img src="assets/Output3.png" alt="Output 3" width="90%">
+<img src="Output/output-3.png" alt="Output 3" width="90%">
 
 <br><br>
 
-<img src="assets/Output4.png" alt="Output 4" width="90%">
+<img src="Output/output-4.png" alt="Output 4" width="90%">
 
 <br><br>
 
-<img src="assets/Output5.png" alt="Output 5" width="90%">
+<img src="Output/output-5.png" alt="Output 5" width="90%">
 
 <br><br>
-
-<img src="assets/Output6.png" alt="Output 6" width="90%">
-
-<br><br>
-
-<img src="assets/Output7.png" alt="Output 7" width="90%">
 
 </div>
 
@@ -264,7 +258,7 @@ The project demonstration video shows the complete execution of the application,
 
 ### 🎥 Video
 
-[▶️ Watch Project Demonstration](assets/Project%20Demonstration.mp4)
+[▶️ Watch Project Demonstration](https://github.com/Aditi020802/Python-Projects/blob/main/Project%20-%204%20Functional%20Treat/Project%20Demonstration.mov)
 
 ---
 
