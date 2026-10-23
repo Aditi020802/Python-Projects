@@ -1,0 +1,153 @@
+Date,Product,Category,Price,Quantity Sold,Total Sales
+2026-06-13,Keyboard,Electronics,30.88,12,370.56
+2026-03-12,Notebook,Stationery,3.5,3,10.5
+2026-01-27,Backpack,Lifestyle,37.52,10,375.2
+2026-04-19,Wireless Mouse,Electronics,18.04,2,36.08
+2026-02-25,Notebook,,3.68,10,36.8
+2026-01-07,Backpack,Lifestyle,39.5,12,474.0
+2026-06-16,Backpack,Lifestyle,39.5,4,158.0
+2026-04-25,Coffee Mug,Lifestyle,8.75,1,8.75
+2026-02-10,Desk Lamp,Furniture,24.99,5,124.95
+2026-02-09,Notebook,Stationery,3.5,2,7.0
+2026-01-24,Desk Lamp,Furniture,23.74,6,142.44
+2026-03-30,Coffee Mug,Lifestyle,8.75,1,8.75
+2026-04-28,Backpack,Lifestyle,37.52,7,262.64
+2026-01-21,Backpack,Lifestyle,39.5,11,434.5
+2026-06-08,Office Chair,Furniture,136.49,4,545.96
+2026-01-18,Wireless Mouse,Electronics,18.99,5,94.95
+2026-01-21,Notebook,Stationery,3.32,7,23.24
+2026-03-13,Water Bottle,Lifestyle,,3,36.0
+2026-04-05,Office Chair,Furniture,129.99,11,1429.89
+2026-03-10,Keyboard,Electronics,34.12,11,375.32
+2026-02-13,Backpack,Lifestyle,39.5,3,118.5
+2026-04-29,Desk Lamp,Furniture,24.99,11,274.89
+2026-06-26,Backpack,Lifestyle,39.5,11,434.5
+2026-03-25,Wireless Mouse,Electronics,18.99,1,18.99
+2026-03-22,Desk Lamp,Furniture,24.99,2,49.98
+2026-02-24,Coffee Mug,Lifestyle,8.75,4,35.0
+2026-06-17,Water Bottle,Lifestyle,12.0,11,132.0
+2026-04-28,USB Cable,Electronics,7.99,3,23.97
+2026-03-05,Backpack,Lifestyle,41.48,,207.4
+2026-05-30,Desk Lamp,Furniture,26.24,7,183.68
+2026-04-03,Notebook,Stationery,3.5,9,31.5
+2026-05-07,Keyboard,Electronics,30.88,2,61.76
+2026-02-09,USB Cable,Electronics,7.99,10,79.9
+2026-01-17,Desk Lamp,Furniture,24.99,10,249.9
+2026-04-30,Backpack,Lifestyle,39.5,9,355.5
+2026-01-03,Keyboard,Electronics,34.12,5,170.6
+2026-06-14,Office Chair,Furniture,123.49,5,617.45
+2026-04-22,USB Cable,Electronics,7.99,1,7.99
+2026-03-09,Backpack,Lifestyle,39.5,9,355.5
+2026-01-28,Pen Pack,Stationery,5.51,10,55.1
+2026-02-20,USB Cable,Electronics,7.99,3,23.97
+2026-05-19,Backpack,Lifestyle,37.52,10,375.2
+2026-03-24,Water Bottle,Lifestyle,11.4,2,22.8
+2026-04-03,Pen Pack,Stationery,5.25,1,5.25
+2026-03-03,Coffee Mug,Lifestyle,8.31,2,16.62
+2026-05-05,Keyboard,Electronics,34.12,3,102.36
+,Water Bottle,Lifestyle,12.6,3,37.8
+2026-03-09,Backpack,Lifestyle,41.48,7,290.36
+2026-02-24,Backpack,Lifestyle,39.5,12,474.0
+2026-03-21,Desk Lamp,Furniture,24.99,8,199.92
+2026-05-13,Water Bottle,Lifestyle,11.4,4,45.6
+2026-02-27,Keyboard,Electronics,32.5,1,32.5
+2026-05-31,Backpack,Lifestyle,39.5,10,395.0
+2026-02-26,Wireless Mouse,Electronics,18.04,12,216.48
+2026-06-11,Wireless Mouse,Electronics,18.99,2,37.98
+2026-01-09,Office Chair,Furniture,123.49,9,1111.41
+2026-03-02,Pen Pack,Stationery,5.25,4,21.0
+2026-05-19,USB Cable,Electronics,8.39,10,83.9
+2026-05-02,Notebook,Stationery,3.5,7,24.5
+2026-02-18,Keyboard,Electronics,30.88,11,339.68
+2026-04-21,Office Chair,Furniture,129.99,7,909.93
+2026-04-30,Wireless Mouse,Electronics,18.04,1,18.04
+2026-04-14,Office Chair,Furniture,123.49,4,493.96
+2026-02-19,Notebook,Stationery,3.68,8,29.44
+2026-02-05,Desk Lamp,Furniture,24.99,5,124.95
+2026-04-29,Notebook,Stationery,3.32,8,26.56
+2026-05-21,Keyboard,Electronics,30.88,11,339.68
+2026-05-19,Wireless Mouse,Electronics,18.04,4,72.16
+2026-02-12,Desk Lamp,Furniture,24.99,8,199.92
+2026-02-24,Desk Lamp,Furniture,23.74,3,71.22
+2026-04-08,Wireless Mouse,Electronics,18.99,5,94.95
+2026-04-27,Pen Pack,Stationery,5.25,12,63.0
+2026-05-23,Water Bottle,Lifestyle,12.0,4,48.0
+2026-03-17,,Stationery,3.32,10,33.2
+2026-05-19,Wireless Mouse,Electronics,18.99,1,18.99
+2026-01-13,Coffee Mug,Lifestyle,8.75,9,78.75
+2026-05-16,USB Cable,Electronics,7.59,9,68.31
+2026-01-21,USB Cable,Electronics,7.59,10,75.9
+2026-01-18,Notebook,Stationery,3.5,2,7.0
+2026-05-26,Notebook,Stationery,3.68,10,36.8
+2026-01-11,Coffee Mug,Lifestyle,8.31,7,58.17
+2026-06-18,Coffee Mug,Lifestyle,9.19,9,82.71
+2026-03-22,Pen Pack,Stationery,5.25,11,57.75
+2026-03-22,Notebook,Stationery,3.5,7,24.5
+2026-02-03,Pen Pack,Stationery,5.25,6,31.5
+2026-01-19,Wireless Mouse,Electronics,18.99,10,189.9
+2026-05-25,Keyboard,Electronics,30.88,9,277.92
+2026-02-24,Backpack,Lifestyle,39.5,3,118.5
+2026-03-31,Keyboard,Electronics,-5,6,195.0
+2026-03-14,USB Cable,Electronics,7.99,9,71.91
+2026-03-19,Coffee Mug,Lifestyle,9.19,1,9.19
+2026-06-20,Backpack,Lifestyle,39.5,11,434.5
+2026-01-27,USB Cable,Electronics,7.99,2,15.98
+2026-01-28,Backpack,Lifestyle,39.5,5,197.5
+2026-03-14,Coffee Mug,Lifestyle,8.75,12,105.0
+2026-03-29,Notebook,Stationery,3.5,9,31.5
+2026-05-06,Pen Pack,Stationery,4.99,2,9.98
+2026-06-12,Desk Lamp,Furniture,24.99,1,24.99
+2026-01-01,Office Chair,Furniture,129.99,11,1429.89
+2026-03-09,USB Cable,Electronics,7.99,9,71.91
+2026-04-20,Backpack,Lifestyle,37.52,2,75.04
+2026-01-20,USB Cable,Electronics,8.39,1,
+2026-04-05,Coffee Mug,Lifestyle,9.19,3,27.57
+2026-04-21,USB Cable,Electronics,7.59,5,37.95
+2026-04-04,Wireless Mouse,Electronics,18.99,4,75.96
+2026-06-24,Notebook,Stationery,3.32,6,19.92
+2026-05-24,Desk Lamp,Furniture,26.24,12,314.88
+2026-02-09,Notebook,Stationery,3.5,3,10.5
+2026-04-16,Wireless Mouse,Electronics,18.99,12,227.88
+2026-03-27,Desk Lamp,Furniture,24.99,5,124.95
+2026-02-10,Keyboard,Electronics,32.5,1,32.5
+2026-05-01,Notebook,Stationery,3.5,8,28.0
+2026-03-31,Pen Pack,Stationery,5.25,two,21.0
+2026-01-07,Notebook,Stationery,3.5,6,21.0
+2026-03-13,Keyboard,Electronics,32.5,6,195.0
+2026-06-14,Backpack,Lifestyle,39.5,11,434.5
+2026-05-18,Office Chair,Furniture,123.49,2,246.98
+2026-03-08,USB Cable,Electronics,8.39,5,41.95
+2026-01-10,Keyboard,Electronics,34.12,7,238.84
+2026-03-30,Office Chair,Furniture,129.99,10,1299.9
+2026-05-11,Keyboard,Electronics,32.5,10,325.0
+2026-02-18,Pen Pack,Stationery,4.99,12,59.88
+2026-04-22,Wireless Mouse,Electronics,19.94,9,179.46
+2026-06-25,Notebook,Stationery,3.5,7,24.5
+2026-01-18,Office Chair,Furniture,136.49,6,818.94
+2026-06-19,Keyboard,Electronics,32.5,9,292.5
+2026-03-21,Desk Lamp,Furniture,24.99,7,174.93
+2026-06-28,Pen Pack,Stationery,5.51,3,16.53
+2026-02-19,Desk Lamp,Furniture,24.99,11,274.89
+2026-02-14,Coffee Mug,Lifestyle,9.19,5,45.95
+2026-04-14,Backpack,Lifestyle,37.52,5,187.6
+2026-03-15,Notebook,Stationery,3.5,10,35.0
+2026-06-05,Office Chair,Furniture,129.99,8,1039.92
+2026-04-24,Notebook,Stationery,3.68,8,29.44
+2026-02-13,Keyboard,Electronics,32.5,9,292.5
+2026-06-19,Coffee Mug,Lifestyle,8.75,2,17.5
+2026-03-02,Pen Pack,Stationery,5.25,4,21.0
+2026-02-07,Wireless Mouse,Electronics,18.04,4,72.16
+2026-05-02,Coffee Mug,Lifestyle,8.31,8,66.48
+2026-04-17,Coffee Mug,Lifestyle,8.75,12,105.0
+2026-06-28,Desk Lamp,Furniture,24.99,7,174.93
+2026-03-04,USB Cable,Electronics,7.59,2,15.18
+2026-04-19,Notebook,Stationery,3.5,12,42.0
+2026-05-13,Water Bottle,Lifestyle,11.4,9,102.6
+2026-03-05,Keyboard,Electronics,32.5,3,97.5
+2026-04-29,Backpack,Lifestyle,41.48,10,414.8
+2026-03-23,Water Bottle,Lifestyle,12.6,12,151.2
+2026-05-10,Desk Lamp,Furniture,26.24,8,209.92
+2026-02-10,Water Bottle,Lifestyle,12.0,5,60.0
+2026-03-05,Pen Pack,Stationery,5.51,8,44.08
+2026-01-24,Desk Lamp,Furniture,23.74,6,142.44
+2026-01-09,Office Chair,Furniture,123.49,9,1111.41
