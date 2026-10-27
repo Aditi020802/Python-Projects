@@ -330,7 +330,7 @@ Enter a number from `1` to `6` and follow the prompts.
 
 <div align="center">
 
-### **Sujal Patel**
+### **Aditi Modhvadiya**
 
 Python Developer / Learner
 
